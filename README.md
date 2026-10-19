@@ -128,7 +128,7 @@ DailyNotes uses a dark-themed interface with contrasting colors for readability.
 
 **Mayur Kadam**
 
-GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [mayur-kadamm](https://github.com/mayur-kadamm)
 
 ---
 
